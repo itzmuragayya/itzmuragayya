@@ -1,8 +1,9 @@
-### Hi there 👋
+Hello, folks!👋
 
-Hi am Murigeyya Hiremath
+My name is Murigeyya Hiremath and i'm a Validation Engineer. 
+I'm from Karnataka, living in Bengaluru and currently working at L&T Technology Services.  
 
-I am the Engineer at L&T Technology Services.
+
 
 <!--
 **itzmuragayya/itzmuragayya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
