@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋, my name is Murigeyya 
+## Hi there 👋, My Name Is Murigeyya 
 #### I am a passionate DevOps enthusiast who is actively exploring and learning various DevOps tools.
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
